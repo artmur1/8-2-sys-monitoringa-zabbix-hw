@@ -26,9 +26,9 @@
 
 ![alt text](https://github.com/artmur1/sys-monitoringa-zabbix-hw/blob/main/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202023-08-23%20230141.png)
 
-sudo -i
-apt update
-apt install postgresql
+   sudo -i
+   apt update
+   apt install postgresql
 wget https://repo.zabbix.com/zabbix/6.0/debian/pool/main/z/zabbix-release/zabbix-release_6.0-4+debian11_all.deb
 dpkg -i zabbix-release_6.0-4+debian11_all.deb
 apt update
