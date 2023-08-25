@@ -24,7 +24,7 @@
 
 ### Задание 1
 
-![alt text](https://github.com/artmur1/sys-monitoringa-zabbix-hw/blob/main/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20>
+![alt text](https://github.com/artmur1/sys-monitoringa-zabbix-hw/blob/main/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202023-08-23%20230141.png)
 
 # sudo -i
 # apt update
@@ -47,9 +47,9 @@
 
 ### Задание 2
 
-![alt text](https://github.com/artmur1/sys-monitoringa-zabbix-hw/blob/main/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20>
-![alt text](https://github.com/artmur1/sys-monitoringa-zabbix-hw/blob/main/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20>
-![alt text](https://github.com/artmur1/sys-monitoringa-zabbix-hw/blob/main/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20>
+![alt text](https://github.com/artmur1/sys-monitoringa-zabbix-hw/blob/main/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202023-08-25%20232939.png)
+![alt text](https://github.com/artmur1/sys-monitoringa-zabbix-hw/blob/main/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202023-08-25%20233529.png)
+![alt text](https://github.com/artmur1/sys-monitoringa-zabbix-hw/blob/main/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202023-08-25%20233113.png)
 
 # apt install zabbix-agent
 # systemctl status zabbix-agent.service
